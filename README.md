@@ -2,6 +2,6 @@
 
 ## I am an Husband, an Infrastructure Automation Developer and a Mentor!
 
-- :bike: I am currently working on Python Trading application as a personal and bussiness app
+- :bike: Started working on Python Trading application as a personal and bussiness app
 - :snail: I am currently learning python django to start work on the same.
 
