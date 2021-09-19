@@ -13,4 +13,4 @@
 - :joystick: Like to play Chess, Cricket
 - :email: kumar1987an@gmail.com
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kumar1987an &theme=radical)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kumar1987an &theme=radical)" />
