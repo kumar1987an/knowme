@@ -5,7 +5,8 @@
 - :desktop_computer: An Infrastructure Developer
 - :man_office_worker: DXC Technology Pvt Ltd
 - :bulb: Started working on Python Trading application as a personal and bussiness app
-- :bike: I am currently learning python django to start work on the same.
+- :bike: I am currently learning :snake: django to start work on the above project.
+- also learning Google :cloud: Platform
 - :man_teacher: A mentor of Python in my company
 - I :heart: Python
 - :books: Exploring about Python daily
