@@ -1,7 +1,14 @@
-# Hello Everybody, I am Kumaran Ramalingam I am confortable if you call me as Kumar
+# Hello Friends,
 
-## I am an Husband, an Infrastructure Automation Developer and a Mentor!
+### I am Kumaran Ramalingam :technologist:
 
-- :bike: Started working on Python Trading application as a personal and bussiness app
-- :snail: I am currently learning python django to start work on the same.
+- :desktop_computer: An Infrastructure Developer
+- :man_office_worker: DXC Technology Pvt Ltd
+- :bulb: Started working on Python Trading application as a personal and bussiness app
+- :bike: I am currently learning python django to start work on the same.
+- :man_teacher: A mentor of Python in my company
+- I :heart: Python
+- :books: Exploring about Python daily
+- :joystick: Like to play Chess, Cricket
+- :email: kumar1987an@gmail.com
 
