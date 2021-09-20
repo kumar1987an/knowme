@@ -50,3 +50,13 @@
 
 ![image](https://user-images.githubusercontent.com/37325822/134006304-6dc0f1cf-4393-4143-aa82-95045e09458e.png)
 
+### Profile
+Total Experience: **12** Years
+- DXC Technology: Associate Manager System Administrator – Infrastructure Automation Developer | From Jan 2017 to till date
+- Cognizant Technology Solutions: Technical Lead – Linux and Python Automation | From Oct 2015 to Nov 2016
+- Wipro Technologies: Senior System Administrator – Linux and AIX | From July 2014 to Oct 2015
+- IBM India Pvt Ltd: Systems Support Specialist – Linux, AIX, IBM Power Systems | From May 2012 to July 2014
+- SVN System Technologies: AIX administrator – Linux, AIX, IBM Power Systems | From June 2011 to May 2012
+- Maitrayee IT Services: Member Technical Support – Linux, AIX, IBM Power Systems | From Sep 2010 to Jun 2011
+- HCL Infosystems Ltd: Customer Engineer – Networking, Linux | From August 2009 to August 2010
+
