@@ -48,5 +48,5 @@
 
 ### Skills Timeline
 
-![image](https://user-images.githubusercontent.com/37325822/134004961-c5ff87c7-f057-400c-8c81-842ba360fe07.png)
+![image](https://user-images.githubusercontent.com/37325822/134006304-6dc0f1cf-4393-4143-aa82-95045e09458e.png)
 
