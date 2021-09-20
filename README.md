@@ -2,6 +2,7 @@
 
 ### I am Kumaran Ramalingam :technologist:
 
+- :birthday: 30-May-1987
 - :desktop_computer: An **Infrastructure** **Developer**
 - :man_office_worker: **DXC Technology Pvt Ltd**
 - :bulb: Started working on **Python Trading** application as a personal and bussiness app
