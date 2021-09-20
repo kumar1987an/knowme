@@ -2,7 +2,7 @@
 
 ### I am Kumaran Ramalingam :technologist:
 
-- :birthday: 30-May-1987
+- :birthday: **30-May-1987**
 - :desktop_computer: An **Infrastructure** **Developer**
 - :man_office_worker: **DXC Technology Pvt Ltd**
 - :bulb: Started working on **Python Trading** application as a personal and bussiness app
@@ -11,8 +11,8 @@
 - :man_teacher: A **mentor of Python** in my company
 - I :heart: **Python**
 - :books: Exploring about Python daily
-- :joystick: Like to play Chess, Cricket
-- :tv: Watching Netflix, Youtube is in my daily Calender
+- :joystick: Like to play **Chess, Cricket**
+- :tv: Watching **Netflix, Youtube** is in my daily Calender
 - :email: kumar1987an@gmail.com
 
 ### Github Stats
