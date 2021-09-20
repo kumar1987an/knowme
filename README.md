@@ -15,5 +15,5 @@
 
 #### Github Stats
 <a href="https://github.com/braydoncoyer">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar1987an&show_icons=true&theme=radical" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar1987an&show_icons=true&theme=onedark" />
 </a>
