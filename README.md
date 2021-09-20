@@ -11,6 +11,7 @@
 - I :heart: **Python**
 - :books: Exploring about Python daily
 - :joystick: Like to play Chess, Cricket
+- :tv: Watching Netflix, Youtube is in my daily Calender
 - :email: kumar1987an@gmail.com
 
 ### Github Stats
