@@ -17,3 +17,10 @@
 <a href="https://github.com/kumar1987an">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar1987an&show_icons=true&theme=onedark" />
 </a>
+
+<a href="https://github.com/kumar1987an">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=kumar1987an&show_icons=true&theme=onedark" alt="Martin's GitHub Stats" />
+</a>
+
+<br>
+<br>
