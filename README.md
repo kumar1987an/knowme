@@ -46,4 +46,7 @@
 ![](https://img.shields.io/badge/OS-AIX-red?style=flat&logo=linux&logoColor=white)
 ![](https://img.shields.io/badge/OS-Redhat-success?style=flat&logo=redhat&logoColor=white)
 
+### Skills Timeline
+
+![image](https://user-images.githubusercontent.com/37325822/134004961-c5ff87c7-f057-400c-8c81-842ba360fe07.png)
 
