@@ -40,3 +40,8 @@
 ![](https://img.shields.io/badge/Notebook-Jupyter-important?style=flat&logo=jupyter&logoColor=white)
 
 ### Skills - Operating Systems
+
+![](https://img.shields.io/badge/OS-AIX-red?style=flat&logo=linux&logoColor=white)
+![](https://img.shields.io/badge/OS-Redhat-success?style=flat&logo=redhat&logoColor=white)
+
+
