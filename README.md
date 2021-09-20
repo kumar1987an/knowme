@@ -13,9 +13,9 @@
 - :joystick: Like to play Chess, Cricket
 - :email: kumar1987an@gmail.com
 
-#### Github Stats
+### Github Stats
 <a href="https://github.com/kumar1987an">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar1987an&show_icons=true&theme=onedark&layout=compact" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar1987an&show_icons=true&theme=onedark" />
 </a>
 
 <a href="https://github.com/kumar1987an">
@@ -24,3 +24,19 @@
 
 <br>
 <br>
+
+### Skills - Language
+
+![](https://img.shields.io/badge/Code-Python-success?style=flat&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Code-HTML-blue?style=flat&logo=HTML5&logoColor=white)
+![](https://img.shields.io/badge/Code-CSS-red?style=flat&logo=CSS3&logoColor=white)
+![](https://img.shields.io/badge/Code-Bash-green?style=flat&logo=GNUBash&logoColor=white)
+
+### Skills - Tools
+
+![](https://img.shields.io/badge/VCS-Github-red?style=flat&logo=Github&logoColor=white)
+![](https://img.shields.io/badge/IDE-VSCode-success?style=flat&logo=visualstudiocode&logoColor=white)
+![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white)
+![](https://img.shields.io/badge/Notebook-Jupyter-important?style=flat&logo=jupyter&logoColor=white)
+
+### Skills - Operating Systems
