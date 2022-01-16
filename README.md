@@ -5,9 +5,8 @@
 - :birthday: **30-May-1987**
 - :desktop_computer: An **Infrastructure Automation Developer**
 - :man_office_worker: **DXC Technology Pvt Ltd**
-- :bulb: Started working on **Python Trading** application as a personal and bussiness app
 - :bike: I am currently learning :snake: **Django** to start work on the above project.
-- also learning **Google :cloud: Platform**
+- also learning **AWS :cloud: Platform**
 - :man_teacher: A **mentor of Python** in my company
 - I :heart: **Python**
 - :books: Exploring about Python daily
