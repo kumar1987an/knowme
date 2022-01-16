@@ -11,7 +11,7 @@
 - :man_teacher: A **mentor of Python** in my company
 - I :heart: **Python**
 - :books: Exploring about Python daily
-- :joystick: Like to play **Chess, Cricket**
+- :joystick: Like to play **Chess, Shuttle Batminton**
 - :tv: Watching **Netflix, Youtube** is in my daily Calender
 - :email: kumar1987an@gmail.com
 
