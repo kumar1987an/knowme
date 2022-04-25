@@ -5,11 +5,11 @@
 - :birthday: **30-May-1987**
 - :desktop_computer: A **DevOps - Developer**
 - :man_office_worker: working in **Experience.com**
-- :bike: I am currently learning .**Automating entire Cloud Infrastructure** through AWScli, Python.
+- :bike: I am currently learning on **Automating entire Cloud Infrastructure** through AWScli and :snake:
 - :man_teacher: A **mentor of Python**
 - I :heart: **Python**
 - :books: Exploring about Python daily
-- :joystick: Like to play **Chess, Shuttle Batminton**, A long drive traveller
+- :joystick: Like to play **Chess, Shuttle Batminton**, A Long Drive Traveller
 - :tv: Watching **Netflix** is in my daily Calender
 - :email: kmrnr1987@gmail.com
 
