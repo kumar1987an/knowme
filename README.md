@@ -3,9 +3,9 @@
 ### I am Kumaran Ramalingam :technologist:
 
 - :birthday: **30-May-1987**
-- :desktop_computer: An **DevOps - Developer**
-- :man_office_worker: **Experience.com**
-- :bike: I am currently learning :snake: **Automating entire Cloud Infrastructure** through AWScli, Python.
+- :desktop_computer: A **DevOps - Developer**
+- :man_office_worker: working in **Experience.com**
+- :bike: I am currently learning .**Automating entire Cloud Infrastructure** through AWScli, Python.
 - :man_teacher: A **mentor of Python**
 - I :heart: **Python**
 - :books: Exploring about Python daily
