@@ -3,6 +3,7 @@
 ### I am Kumaran Ramalingam :technologist:
 
 - :birthday: **30-May-1987**
+- 👨‍🎓 **Bachelor of Engineering**
 - :desktop_computer: A **DevOps - Developer**
 - :man_office_worker: working in **Experience.com**
 - :bike: I am currently learning on **Automating entire Cloud Infrastructure** through AWScli and :snake:
