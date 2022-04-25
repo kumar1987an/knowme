@@ -31,13 +31,16 @@
 ![](https://img.shields.io/badge/Code-HTML-blue?style=flat&logo=HTML5&logoColor=white)
 ![](https://img.shields.io/badge/Code-CSS-red?style=flat&logo=CSS3&logoColor=white)
 ![](https://img.shields.io/badge/Code-Bash-green?style=flat&logo=GNUBash&logoColor=white)
+![](https://img.shields.io/badge/Code-Yaml-blue?style=flat&logo=GNUBash&logoColor=white)
 
 ### Skills - Tools
 
 ![](https://img.shields.io/badge/VCS-Github-red?style=flat&logo=Github&logoColor=white)
 ![](https://img.shields.io/badge/IDE-VSCode-success?style=flat&logo=visualstudiocode&logoColor=white)
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white)
-![](https://img.shields.io/badge/Notebook-Jupyter-important?style=flat&logo=jupyter&logoColor=white)
+![](https://img.shields.io/badge/Notebook-Jupyter-blueviolet?style=flat&logo=jupyter&logoColor=white)
+![](https://img.shields.io/badge/Config-Terraform-important?style=flat&logo=terraform&logoColor=white)
+![](https://img.shields.io/badge/Cloud-AWS-yellow?style=flat&logo=AmazonAWS&logoColor=white)
 
 ### Skills - Operating Systems
 
