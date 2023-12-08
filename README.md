@@ -4,7 +4,7 @@
 
 - :birthday: **30-May-1987**
 - 👨‍🎓 **Bachelor of Engineering**
-- :desktop_computer: A **DevOps - Developer**
+- :desktop_computer: A **Senior Devops SME**
 - :man_office_worker: working in **Experience.com**
 - :bike: I am currently learning on **Automating entire Cloud Infrastructure** through AWScli and :snake:
 - :man_teacher: A **mentor of Python**
