@@ -10,7 +10,7 @@
 - :man_teacher: A **mentor of Python**
 - I :heart: **Python**
 - :books: Exploring about Python daily
-- :joystick: Like to play **Chess, Shuttle Batminton**, A Long Drive Traveller
+- :joystick: Like to play **Chess, Shuttle Batminton and A Long Drive Traveller**
 - :tv: Watching **Netflix** is in my daily Calender
 - :email: kmrnr1987@gmail.com
 
