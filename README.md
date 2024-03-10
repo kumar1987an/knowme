@@ -55,7 +55,8 @@
 ### Profile
 Total Experience: **12** Years <br>
 
-- _**DXC Technology**_ : Associate Manager System Administrator – Infrastructure Automation Developer | From Jan 2017 to April 2022
+- _**BuyersRoad India Pvt Ltd**_ : Senior Devops SME - AWS Devops, ELK stack, MongoDB, Python| From Apr 2022 to Feb 2024
+- _**DXC Technology**_ : Associate Manager System Administrator – AWS Devops | From Jan 2017 to April 2022
 - _**Cognizant Technology Solutions**_ : Technical Lead – Linux and Python Automation | From Oct 2015 to Nov 2016
 - _**Wipro Technologies**_ : Senior System Administrator – Linux and AIX | From July 2014 to Oct 2015
 - _**IBM India Pvt Ltd**_ : Systems Support Specialist – Linux, AIX, IBM Power Systems | From May 2012 to July 2014
