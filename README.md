@@ -6,7 +6,7 @@
 - 👨‍🎓 **Bachelor of Engineering**
 - :desktop_computer: A **Senior Devops SME**
 - :man_office_worker: working in **Experience.com**
-- :bike: I am currently learning on **Automating entire Cloud Infrastructure** through AWScli, Terraform and :snake
+- :bike: I am currently learning on **Automating entire Cloud Infrastructure** through AWScli, Terraform and :snake:
 - :man_teacher: A **mentor of Python**
 - I :heart: **Python**
 - :books: Exploring about Python daily
