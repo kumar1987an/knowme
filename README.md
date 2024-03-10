@@ -6,7 +6,7 @@
 - 👨‍🎓 **Bachelor of Engineering**
 - :desktop_computer: A **Senior Devops SME**
 - :man_office_worker: working in **Experience.com**
-- :bike: I am currently learning on **Automating entire Cloud Infrastructure** through AWScli, Terraform and :snake**
+- :bike: I am currently learning on **Automating entire Cloud Infrastructure** through AWScli, Terraform and :snakes
 - :man_teacher: A **mentor of Python**
 - I :heart: **Python**
 - :books: Exploring about Python daily
@@ -53,7 +53,7 @@
 ![image](https://user-images.githubusercontent.com/37325822/134006304-6dc0f1cf-4393-4143-aa82-95045e09458e.png)
 
 ### Profile
-Total Experience: **12** Years <br>
+Total Experience: **13.4** Years <br>
 
 - _**BuyersRoad India Pvt Ltd**_ : Senior Devops SME - AWS Devops, Terraform, ELK stack, MongoDB, Python | From Apr 2022 to Feb 2024
 - _**DXC Technology**_ : Associate Manager System Administrator – AWS Devops | From Jan 2017 to April 2022
