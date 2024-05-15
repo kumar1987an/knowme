@@ -4,9 +4,9 @@
 
 - :birthday: **30-May-1987**
 - 👨‍🎓 **Bachelor of Engineering**
-- :desktop_computer: A **Senior Devops SME**
-- :man_office_worker: working in **Experience.com**
-- :bike: I am currently learning on **Automating entire Cloud Infrastructure** through AWScli, Terraform and :snake:
+- :desktop_computer: A **Wow - Infrastructure Engineer AVP**
+- :man_office_worker: working in **Natwest Group**
+- :bike: I am currently getting my hands dirty on **AWS Cloud Infrastructure** through AWScli, Terraform and :snake:
 - :man_teacher: A **mentor of Python**
 - I :heart: **Python**
 - :books: Exploring about Python daily
